@@ -8,7 +8,10 @@ public class ServiceToConvertStringToUpper
 	} 
 	
 	public String convertToUpper(String str) {
-		String str1=str.toUpperCase().concat(" Good Morning");
+
+		
+		String str1=str.toUpperCase().concat(" Hello");
+
 		return str1;
 	}
 	
