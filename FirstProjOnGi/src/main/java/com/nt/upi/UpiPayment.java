@@ -12,7 +12,7 @@ public class UpiPayment
 			
 		}
 		
-		return+amt+" Amount Paid To "+accNo+" And Because Of You Daily Limit Exceeded Tax Will be Taken $"+tax;
+		return+amt+" Amount Paid To "+accNo+" And Because Of Your Daily Limit Exceeded Tax Will be Taken $"+tax;
 	}
 
 }
