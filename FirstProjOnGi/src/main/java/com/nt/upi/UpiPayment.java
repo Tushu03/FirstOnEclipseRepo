@@ -11,6 +11,7 @@ public class UpiPayment
 			tax=amt*10/100;
 			
 		}
+		
 		return+amt+" Amount Paid To "+accNo+" And Because Of Your Daily Limit Exceeded Tax Will be Taken $"+tax;
 	}
 
